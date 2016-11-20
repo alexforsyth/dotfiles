@@ -1,0 +1,8 @@
+#does ssh config
+#setup for my personal server
+
+Host: mailquicker
+
+HostName: mailquicker.com
+User: alexforsyth
+Password: []
