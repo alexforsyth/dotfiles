@@ -1,5 +1,6 @@
 #does ssh config
 #ln -sv “~/.dotfiles/*/.inputrc” ~
+#S link
 #setup for my personal server
 
 Host: mailquicker
